@@ -1,4 +1,11 @@
-Additional models for other species are provided in this folder.  
+Additional models for other species are provided in this folder. 
+  
+One `*.RData` file may include following objects:  
+
+`Internal.*` is the Frequency File of one species.  
+`*.mod` is the SVM model trained with secondary structure-derived features.  
+`*.mod.no_ss` is the SVM model trained without secondary structure-derived features.   
+  
   
 Usage:  
   

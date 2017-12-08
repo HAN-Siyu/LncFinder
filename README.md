@@ -1,5 +1,5 @@
 # IMPORTANT
-## Due to the maintenance of .edu.cn, lots of .edu.cn-based websites, including the web interface of many tools, are affected. The web server of LncFinder may not be available. Now we are migrating our servers. Sorry for the inconvenience.
+## Due to the maintenance of .edu.cn, lots of .edu.cn-based websites, including the web interface of many tools, are affected. The web server of LncFinder are unavailable. Now we are migrating our servers. Sorry for the inconvenience.
 Preview: http://csbl.bmb.uga.edu/mirrors/JLU/lncfinder/ (Temporary)
   
 ## LncFinder

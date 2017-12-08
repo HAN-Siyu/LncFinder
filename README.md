@@ -1,5 +1,6 @@
 # IMPORTANT
-## Due to the maintenance of .edu.cn, lots of websites, including the web interface of LncFinder, CPC and CPC2, are affected. The web server of LncFinder may not be available from Oct. 1 2017 to Oct. 27 2017. Sorry for the inconvenience.
+## Due to the maintenance of .edu.cn, lots of .edu,cn-based websites, including the web interface of many tools, are affected. The web server of LncFinder may not be available. Now we are migrating our servers. Sorry for the inconvenience.
+Preview: http://csbl.bmb.uga.edu/mirrors/JLU/lncfinder/ (Temporary)
   
 ## LncFinder
 Long Non-coding RNA Identification Based on Sequence Composition, Structural Information and physicochemical features
@@ -9,6 +10,7 @@ https://CRAN.R-project.org/package=LncFinder
 
 ### Our Web Interface:  
 http://ml.jlu.edu.cn/lncfinder/
+mirror:http://csbl.bmb.uga.edu/mirrors/JLU/lncfinder/
   
 ### Reference:  
 LncFinder: Long Non-coding RNA Identification Based on Sequence Composition, Structural Information and physicochemical features (*Submitted*)

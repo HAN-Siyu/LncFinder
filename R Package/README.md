@@ -7,9 +7,6 @@ LncFinder can also be installed simply by entering command <code>install.package
 * References updated.
 * Description updated.
 
-#### V 1.1.2 Released
-* Bugs fixed.
-
 #### V 1.1.1 Released
 * The calculation of Fickett TESTCODE Score is supported.
 

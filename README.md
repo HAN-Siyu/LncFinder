@@ -9,8 +9,8 @@ Long Non-coding RNA Identification/Analysis Tool Utilizing Logarithm-Distance, M
 https://CRAN.R-project.org/package=LncFinder  
 
 
-### Our Web Server:  
-Sorry that the web server is under maintenance.  (https://bmbl.bmi.osumc.edu/lncfinder/)
+### Our Web Server is back:  
+http://bmbl.sdstate.edu/lncfinder/
   
 ### Reference:  
 LncFinder: an integrated package for long non-coding RNA identification utilizing sequence intrinsic composition, structural information and physicochemical property, Briefings in Bioinformatics, 2018, bby065. (doi: http://dx.doi.org/10.1093/bib/bby065)

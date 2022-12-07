@@ -3,7 +3,7 @@ Long Non-coding RNA Identification/Analysis Tool Utilizing Logarithm-Distance, M
 
 ***Thank you for using LncFinder! Try our [LION](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbac420/6713512) if you want to further predict ncRNA-/lncRNA-protein interaction!***
 
-***Any questions regarding LncFinder please drop an email to siyu.han@tum.de or post it to [issue](https://github.com/HAN-Siyu/LncFinder/issues).***
+***Any questions regarding LncFinder please drop an email to siyu.han@tum.de or post it to [issues](https://github.com/HAN-Siyu/LncFinder/issues).***
   
 ### Our R Package on CRAN (Stable Version):  
 https://CRAN.R-project.org/package=LncFinder  

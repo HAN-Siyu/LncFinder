@@ -2,6 +2,12 @@ R package (Release version) can be download from CRAN: https://CRAN.R-project.or
 
 LncFinder can also be installed simply by entering command <code>install.packages("LncFinder")</code> in R, and an appropriate version with all dependencies will be installed automatically.
 
+### V 1.1.6 Released 
+
+* Fix the issue that features cannot be extracted when all input sequences have the same length.
+
+  Thanks to Sen Wang @Northwest A&F University for reporting this.
+
 #### V 1.1.5 Released
 * Fixed issue: "Need numeric dependent variable for regression" when building customised models.
 * Now support additional arguments for function "build_model" and "svm_tune".

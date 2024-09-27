@@ -13,7 +13,7 @@ https://CRAN.R-project.org/package=LncFinder
 
 
 ### Our Web Server is back:  
-https://han-siyu.github.io/LncFinder_web/
+https://lncfinder.osubmi.org/
   
 ### Reference:  
 LncFinder: an integrated package for long non-coding RNA identification utilizing sequence intrinsic composition, structural information and physicochemical property, Briefings in Bioinformatics, 2018, bby065. (doi: http://dx.doi.org/10.1093/bib/bby065)

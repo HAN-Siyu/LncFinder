@@ -16,4 +16,4 @@ https://CRAN.R-project.org/package=LncFinder
 https://lncfinder.osubmi.org/
   
 ### Reference:  
-LncFinder: an integrated package for long non-coding RNA identification utilizing sequence intrinsic composition, structural information and physicochemical property, Briefings in Bioinformatics, 2018, bby065. (doi: http://dx.doi.org/10.1093/bib/bby065)
+LncFinder: an integrated package for long non-coding RNA identification utilizing sequence intrinsic composition, structural information and physicochemical property, Briefings in Bioinformatics, 2019, 20(6):2009-2027. (doi: http://dx.doi.org/10.1093/bib/bby065)
